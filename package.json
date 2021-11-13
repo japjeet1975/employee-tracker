@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Emplyee tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japjeet1975/employee-tracker.git"
+  },
+  "author": "Japjeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japjeet1975/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/japjeet1975/employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3-rc.0"
+  }
+}
