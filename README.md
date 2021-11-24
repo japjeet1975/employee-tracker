@@ -1,7 +1,10 @@
 ## employee-tracker
 
 ## Description
-This app can be used to track and manage employees information. This CLI based application can be utilized to perform different sorts of inquiries on representative information base. Inquiries can be utilized to view, refresh and erase representatives, view and update divisions, view and update jobs. It utilizes 'inquirer' to get client information and afterward play out the essential inquiry to get the necessary data in a plain organization utilizing 'console.table'.
+This software may be applied to comply with and oversee employees records. 
+This CLI primarily based utility can be used to perform various types of requests on agent statistics base. 
+Requests may be used to look, revive and delete sellers, view and replace divisions, view and update occupations. 
+It makes use of 'inquirer' to get patron facts and thereafter play out the fundamental request to get the crucial records in a simple affiliation the use of 'console.Table'.
 
 
 ## User Story
